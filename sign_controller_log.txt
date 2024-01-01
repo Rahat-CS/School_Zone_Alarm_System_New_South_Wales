@@ -1,0 +1,1 @@
+1700115895: 06-000: Unknown Event, Battery voltage below threshold at 0.0 V
